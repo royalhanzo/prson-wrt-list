@@ -33,6 +33,7 @@ antennevorarlberg.at
 api.app.prod.grazie.aws.intellij.net
 api.fitbit.com
 api.radarr.video
+apify.com
 aplawrence.com
 app.paraswap.io
 appstorrent.ru
@@ -80,6 +81,7 @@ cliamp.stream
 clickup-eu.com
 clickup-prod.com
 clickup-sg.com
+cloudcode-pa.googleapis.com
 cloudflare-dns.com
 cloudflare-ech.com
 cloudmatchbeta.nvidiagrid.net
@@ -91,13 +93,14 @@ copilot-proxy.githubusercontent.com
 cursor.com
 czx.to
 d.docs.live.net
+daily-cloudcode-pa.googleapis.com
+daily-cloudcode-pa.sandbox.googleapis.com
 dailymotion.com
 datacamp.com
 dc.applicationinsights.azure.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
 dc.trafficmanager.net
-developer.android.com
 devops.com
 di.fm
 discord.me
@@ -135,6 +138,7 @@ facetime.apple.com
 familywall.com
 fex.net
 ffh.de
+figma-alpha-api.s3.us-west-2.amazonaws.com
 figma.com
 files.manus.cdn
 fitbit-pa.googleapis.com
@@ -206,12 +210,13 @@ linuxiac.com
 listen2myradio.com
 localbitcoins.com
 locucionar.com
-login.amd.com
+lscr.io
 m3u.in
 mabu-beatz-radio.com
 macpaw.com
 macvendors.com
 magicstreams.gr
+mail.chatgpt.org.uk
 maretimo-records.com
 mars.streamerr.co
 maven.neoforged.net
@@ -226,6 +231,7 @@ meta.ai
 meteo.paraplan.net
 mgtradio.net
 midjourney.com
+mise-versions.jdx.dev
 mistral.ai
 mixstream.net
 mobile.events.data.microsoft.com
@@ -306,15 +312,20 @@ redditstatic.com
 redis.com
 redtube.com
 refinitiv.com
+release-assets.githubusercontent.com
 replayscape.com
 replicate.com
 repo.mongodb.org
+resend.com
 resp.app
 revma.com
 rewards.bing.com
 rmfstream.pl
 roblox-api.arkoselabs.com
+rokid.com
+rokidhub.com
 rsg.rs
+rumahweb.com
 rumble.com
 runetki.com
 saaslys.com
@@ -329,6 +340,7 @@ seedoff.zannn.top
 sendgrid.net
 serpstat.com
 services.gearboxsoftware.com
+services.sonarr.tv
 shift.services.gearbox.com
 shoutca.st
 shoutcast.com
@@ -336,6 +348,7 @@ siar.us
 signal.art
 signalusers.org
 sknt.ru
+skyhook.sonarr.tv
 skyscanner.com
 slideshare.net
 slotex.pl
@@ -354,6 +367,7 @@ stability.ai
 starterfm.com
 static.microsoft
 steamcommunity.com
+steampowered.com
 stereoscenic.com
 stmxp.net
 stockx.com
@@ -390,6 +404,7 @@ tiktokw.eu
 timberland.com
 tinder.com
 tinkercad.com
+tld-list.com
 toksyna.fm
 torontocast.com
 torrent.by
@@ -426,7 +441,6 @@ vsean.net
 warnerbrosgames.com
 wdrt.org
 we4stream.com
-web.archive.org
 weblance.com.ua
 westeurope-global.in.applicationinsights.azure.com
 whatsapp-plus.info
@@ -451,8 +465,7 @@ www.stalker2.com
 www.wikiart.org
 xbox.com
 xboxlive.com
-xgpuweb.gssv-play-prod.xboxlive.com
-xgpuwebf2p.gssv-play-prod.xboxlive.com
+yams.media
 yesstreaming.net
 you.com
 youtube.googleapis.com
